@@ -1,0 +1,6 @@
+framework module Pods_TuistSample {
+  umbrella header "Pods-TuistSample-umbrella.h"
+
+  export *
+  module * { export * }
+}
